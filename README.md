@@ -9,5 +9,3 @@ CICIDS2017 datase is recognized as a popular network traffic dataset for intrusi
 
 CAN-intrusion dataset is a benchmark network security dataset for internal communication between vehicles in intrusion detection problems
     Publicly available at: https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset
-    
-    
