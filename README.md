@@ -10,6 +10,20 @@ CICIDS2017 datase is recognized as a popular network traffic dataset for intrusi
 CAN-intrusion dataset is a benchmark network security dataset for internal communication between vehicles in intrusion detection problems
     Publicly available at: https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset
 
+
+
+
+
+Hyperparameter Optimization Methods:
+
+    Bayesian Optimization with Gaussian Processes (BO-GP)
+    Bayesian Optimization with Tree-structured Parzen Estimator (BO-TPE)
+
+If you are enthusiastic in hyperparameter tuning of machine learning algorithms, please follow the below link:
+https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms
+
+
+
 Requirements & Libraries
 
     Python 3+
