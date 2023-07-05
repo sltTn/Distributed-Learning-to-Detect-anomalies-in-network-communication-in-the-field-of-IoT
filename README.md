@@ -11,7 +11,8 @@ CAN-intrusion dataset is a benchmark network security dataset for internal commu
     Publicly available at: https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset
 
 
-
+Also, the surty before releasing this idea is here https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6894, you can find it in this file.
+"Artificial intelligence empowered threat detection in the Internet of Things: A systematic review" is a comperhensive survey that provides major solutions to solve Intrusion Detection challenges after 2017. All solutions are in AI.
 
 
 ## Hyperparameter Optimization Methods:
